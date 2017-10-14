@@ -6,4 +6,5 @@ Code for [my attempts](https://www.kaggle.com/hodapp) at the
 So far this contains:
 
 - A `shell.nix` to set up a Python environment
-- A Jupyter notebook for some exploration
+- A Jupyter notebook for loading the data and doing some exploratory
+  analysis
